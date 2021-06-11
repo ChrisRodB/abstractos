@@ -1,5 +1,12 @@
 package com.edutecno.ejemplo001;
 
+/**
+ * 
+ * @author ChrisRodB
+ * Mi nuevo comentario para GIT
+ *
+ */
+
 public class Auto extends Vehiculo {
 
 	public Auto(String marca) {
